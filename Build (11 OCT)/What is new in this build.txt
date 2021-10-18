@@ -1,0 +1,4 @@
+Ammo system
+Magazine system
+Walking sound
+empty gun sound
