@@ -1,0 +1,4 @@
+game over screen
+	game over text
+	red screen  
+	main menu button not working yet
